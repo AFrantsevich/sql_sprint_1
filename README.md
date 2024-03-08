@@ -5,7 +5,7 @@
 
 В рамках данного учебного проекта предоставлена таблица с сырыми данными в формате Excel. 
 Необходимо выполнить нормализацию до 3НФ, создать базу, таблицы, наполнить их данными из сырого исходника.
-Дополнительно выполнить нескоько простых SQL запросов по ТЗ. Код разбит на два файла создание и наполнение таблиц - [создание](https://github.com/AFrantsevich/sql_sprint_1/blob/main/create_tables_and_insert_data.sql) и [выполнение запросов по ТЗ](https://github.com/AFrantsevich/sql_sprint_1/blob/main/tasks.sql).
+Дополнительно выполнить нескоько простых SQL запросов по ТЗ. Код разбит на два файла - [создание и наполнение таблиц](https://github.com/AFrantsevich/sql_sprint_1/blob/main/create_tables_and_insert_data.sql) и [выполнение запросов по ТЗ](https://github.com/AFrantsevich/sql_sprint_1/blob/main/tasks.sql).
 
 ## Сырая таблица имеет вид:
 ![image](https://github.com/AFrantsevich/sql_sprint_1/assets/109984895/4f386695-cb92-42cb-a7ba-aa678c30886e)
